@@ -1,4 +1,4 @@
-1.
-2.
-3.
-4.
+1.man -k keyword
+2.ps
+3.kill process_id
+4.diff file1_name file2_name
