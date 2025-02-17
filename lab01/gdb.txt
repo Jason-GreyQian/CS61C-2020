@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1.run arg1 arg2... or set args arg1 arg2...
+2.break line_number or break function_name or b [file:]line_number or b [file:]function_name
+3.n
+4.s
+5.c
+6.print 1+2
+7.display expr
+8.info locals
+9.q
